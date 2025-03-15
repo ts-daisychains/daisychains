@@ -11,4 +11,15 @@ body {
   background-image: url('./assets/flames.gif');
   background-position: bottom;
   background-repeat: repeat-x;
+  height: 100vh;
+  background-size: 25%;
+  color:gold;
+}
+
+h1 {
+  margin: 40px auto;
+}
+
+p {
+  margin: 30px auto;
 }
